@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/docs" />
+            <option value="$PROJECT_DIR$/spring-statemachine-autoconfigure" />
+            <option value="$PROJECT_DIR$/spring-statemachine-bom" />
+            <option value="$PROJECT_DIR$/spring-statemachine-build-tests" />
+            <option value="$PROJECT_DIR$/spring-statemachine-cluster" />
+            <option value="$PROJECT_DIR$/spring-statemachine-core" />
+            <option value="$PROJECT_DIR$/spring-statemachine-data" />
+            <option value="$PROJECT_DIR$/spring-statemachine-data/jpa" />
+            <option value="$PROJECT_DIR$/spring-statemachine-data/mongodb" />
+            <option value="$PROJECT_DIR$/spring-statemachine-data/redis" />
+            <option value="$PROJECT_DIR$/spring-statemachine-kryo" />
+            <option value="$PROJECT_DIR$/spring-statemachine-platform" />
+            <option value="$PROJECT_DIR$/spring-statemachine-recipes" />
+            <option value="$PROJECT_DIR$/spring-statemachine-samples" />
+            <option value="$PROJECT_DIR$/spring-statemachine-samples/turnstile" />
+            <option value="$PROJECT_DIR$/spring-statemachine-starter" />
+            <option value="$PROJECT_DIR$/spring-statemachine-test" />
+            <option value="$PROJECT_DIR$/spring-statemachine-uml" />
+            <option value="$PROJECT_DIR$/spring-statemachine-zookeeper" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
